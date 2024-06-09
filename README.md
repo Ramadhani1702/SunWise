@@ -1,7 +1,7 @@
 
 # SunWise
 
-SunWise is an application used to predict how much skin resistance to UV exposure. Skin types are divided into 6 types based on the research of a renowned dermatologist, Fitz Patrick. The FastAI model will detect the image by giving the output of the skin type and the Decision Tree Model will give the output of the estimated resistance time based on skin type and UV light. 
+SunWise is an application used to predict estimation time of skin resistance to UV exposure. Skin types are divided into 6 types based on the research of a renowned dermatologist, Fitz Patrick. The FastAI model will detect the image by giving the output of the skin type and the Decision Tree Model will give the output of the estimated resistance time based on skin type and UV light. 
 
 ## Model
 
