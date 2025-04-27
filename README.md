@@ -12,12 +12,4 @@ SunWise is an application used to predict estimation time of skin resistance to 
 
 This application is deployed using Cloud Run and uses 2 GigaByte/2Gi memory
 
-## Environment Variables
 
-Here's the endpoint link 
-
-`https://predictedtime-j5nhigjovq-uc.a.run.app`
-
-## Demo
-
-You can try using this model by downloading the `test.html` file. Once you open the `test.html` file you can input a photo of your face to detect your skin type and input the current UV light level.
